@@ -6,5 +6,5 @@
 
 ### Easy
 
-- [Merge Sorted Array](merge%20Sorted%20Array.js)
+- [Merge Sorted Array](https://github.com/HelloWoooooorld/LeetCode/blob/main/mergeSortedArray.js)
 - [Remove Duplicates from Sorted Array](remove%20Duplicates.js)
