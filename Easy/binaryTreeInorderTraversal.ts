@@ -11,13 +11,13 @@ class TreeNode {
   }
 }
 
-function inorderTraversal(root) {
+function inorderTraversal(root: TreeNode) {
   const res = [];
   helper(root, res);
   return res;
 }
 
-var helper = function (root, res) {
+const helper = function (root, res) {
   if (root !== null) {
     helper(root.left, res);
     res.push(root.val);
@@ -25,4 +25,12 @@ var helper = function (root, res) {
   }
 };
 
-inorderTraversal([1, 2, null, 4, 5]);
+const test = new TreeNode(
+  1,
+  new TreeNode(2),
+  new TreeNode(3),
+  new TreeNode(null),
+  new TreeNode(5)
+);
+
+console.log(inorderTraversal(test));
