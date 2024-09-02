@@ -20,5 +20,11 @@ This repository contains solved tasks from the coding challenges platform [LeetC
 - [Roman To Int](https://github.com/HelloWoooooorld/LeetCode/blob/main/Easy/romanToInt.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
 - [Search Insert Position](https://github.com/HelloWoooooorld/LeetCode/blob/main/Easy/searchInsertPos.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
 - [Two Sum](https://github.com/HelloWoooooorld/LeetCode/blob/main/Easy/twoSum.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
+- [Binary Tree Inorder Traversal](https://github.com/HelloWoooooorld/LeetCode/blob/main/Easy/binaryTreeInorderTraversal.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
+
+### 🟢 Medium
+
+- [Largest Number](https://github.com/HelloWoooooorld/LeetCode/blob/main/Easy/twoSum.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
+
 
 ![coding gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
