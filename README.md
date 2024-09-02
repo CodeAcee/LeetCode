@@ -8,8 +8,8 @@ This repository contains solved tasks from the coding challenges platform [LeetC
 
 ### 🟢 Easy
 
-- [Merge Sorted Array](https://github.com/CodeAcee/LeetCode/blob/main/Easy/mergeSortedArray.js) ![status](https://img.shields.io/badge/Status-Completed-green)
-- [Remove Duplicates from Sorted Array](https://github.com/CodeAcee/LeetCode/blob/main/Easy/remove%20Duplicates.js) ![status](https://img.shields.io/badge/Status-Completed-green)
+- [Merge Sorted Array](https://github.com/CodeAcee/LeetCode/blob/main/Easy/mergeSortedArray.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
+- [Remove Duplicates from Sorted Array](https://github.com/CodeAcee/LeetCode/blob/main/Easy/remove%20Duplicates.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
 - [Array Insertion](https://github.com/CodeAcee/LeetCode/blob/main/Easy/arrayInsertion.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
 - [Is Palindrome](https://github.com/CodeAcee/LeetCode/blob/main/Easy/isPalindrome.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
 - [Length Of Last Word](https://github.com/CodeAcee/LeetCode/blob/main/Easy/lenghtOfLastWord.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
