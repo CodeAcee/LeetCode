@@ -22,8 +22,11 @@ This repository contains solved tasks from the coding challenges platform [LeetC
 - [Two Sum](https://github.com/CodeAcee/LeetCode/blob/main/Easy/twoSum.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
 - [Binary Tree Inorder Traversal](https://github.com/CodeAcee/LeetCode/blob/main/Easy/binaryTreeInorderTraversal.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
 - [ValidParentheses](https://github.com/CodeAcee/LeetCode/blob/main/Easy/validParentheses.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
-- [SameTree](https://github.com/CodeAcee/LeetCode/blob/main/Easy/sameTree.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
-- [SymmetricTree](https://github.com/CodeAcee/LeetCode/blob/main/Easy/symmetricTree.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
+- [Same Tree](https://github.com/CodeAcee/LeetCode/blob/main/Easy/sameTree.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
+- [Symmetric Tree](https://github.com/CodeAcee/LeetCode/blob/main/Easy/symmetricTree.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
+- [Max Depth](https://github.com/CodeAcee/LeetCode/blob/main/Easy/maxDepth.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
+- [Single Number](https://github.com/CodeAcee/LeetCode/blob/main/Easy/singleNumber.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
+- [Title To Number](https://github.com/CodeAcee/LeetCode/blob/main/Easy/titleToNumber.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
 
 ### 🟢 Medium
 
