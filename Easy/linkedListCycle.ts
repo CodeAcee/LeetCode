@@ -23,6 +23,6 @@ function hasCycle(head: ListNode | null): boolean {
   return false;
 }
 
-const test = new ListNode(3, new ListNode(2, new ListNode(0, new ListNode(1))));
+const test3 = new ListNode(3, new ListNode(2, new ListNode(0, new ListNode(1))));
 
-hasCycle(test);
+hasCycle(test3);

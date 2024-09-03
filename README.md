@@ -27,7 +27,9 @@ This repository contains solved tasks from the coding challenges platform [LeetC
 - [Max Depth](https://github.com/CodeAcee/LeetCode/blob/main/Easy/maxDepth.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
 - [Single Number](https://github.com/CodeAcee/LeetCode/blob/main/Easy/singleNumber.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
 - [Title To Number](https://github.com/CodeAcee/LeetCode/blob/main/Easy/titleToNumber.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
-
+- [Linked List Cycle](https://github.com/CodeAcee/LeetCode/blob/main/Easy/linkedListCycle.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
+- [Binary Tree Preorder Traversal](https://github.com/CodeAcee/LeetCode/blob/main/Easy/binaryTreePreorderTraversal.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
+- [Get Lucky](https://github.com/CodeAcee/LeetCode/blob/main/Easy/getLucky.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
 ### 🟢 Medium
 
 - [Largest Number](https://github.com/CodeAcee/LeetCode/blob/main/Easy/largestNumber.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
