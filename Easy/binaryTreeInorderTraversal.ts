@@ -29,8 +29,6 @@ const test = new TreeNode(
   1,
   new TreeNode(2),
   new TreeNode(3),
-  new TreeNode(null),
-  new TreeNode(5)
 );
 
 console.log(inorderTraversal(test));

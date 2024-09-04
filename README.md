@@ -30,6 +30,10 @@ This repository contains solved tasks from the coding challenges platform [LeetC
 - [Linked List Cycle](https://github.com/CodeAcee/LeetCode/blob/main/Easy/linkedListCycle.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
 - [Binary Tree Preorder Traversal](https://github.com/CodeAcee/LeetCode/blob/main/Easy/binaryTreePreorderTraversal.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
 - [Get Lucky](https://github.com/CodeAcee/LeetCode/blob/main/Easy/getLucky.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
+- [Contain Duplicates](https://github.com/CodeAcee/LeetCode/blob/main/Easy/containDuplicate.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
+- [Contain Duplicates 2](https://github.com/CodeAcee/LeetCode/blob/main/Easy/containDuplicate2.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
+- [Happy Number](https://github.com/CodeAcee/LeetCode/blob/main/Easy/happyNumber.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
+
 ### 🟢 Medium
 
 - [Largest Number](https://github.com/CodeAcee/LeetCode/blob/main/Easy/largestNumber.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
