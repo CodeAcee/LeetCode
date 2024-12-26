@@ -33,6 +33,7 @@ This repository contains solved tasks from the coding challenges platform [LeetC
 - [Contain Duplicates](https://github.com/CodeAcee/LeetCode/blob/main/Easy/containDuplicate.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
 - [Contain Duplicates 2](https://github.com/CodeAcee/LeetCode/blob/main/Easy/containDuplicate2.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
 - [Happy Number](https://github.com/CodeAcee/LeetCode/blob/main/Easy/happyNumber.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
+- [Check if All Characters Have Equal Number of Occurrences](https://github.com/CodeAcee/LeetCode/blob/main/Easy/haveEqualCharacters.ts) ![status](https://img.shields.io/badge/Status-Completed-green)
 
 ### 🟢 Medium
 

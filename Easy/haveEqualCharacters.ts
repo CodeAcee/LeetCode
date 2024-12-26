@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/description/?envType=problem-list-v2&envId=string
+
 function areOccurrencesEqual(s: string): boolean {
     const countMap: Record<string, number> = {}
 
@@ -10,3 +12,5 @@ function areOccurrencesEqual(s: string): boolean {
     return freq.every(val => val === freq[0])
 
 };
+
+
